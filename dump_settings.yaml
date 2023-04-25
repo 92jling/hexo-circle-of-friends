@@ -21,7 +21,7 @@ LINK:
 - link: https://nie.su/links.html/
   theme: butterfly
 MAX_POSTS_NUM: 10
-OUTDATE_CLEAN: 90
+OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: true
   json_api: ''
