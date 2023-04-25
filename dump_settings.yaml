@@ -1,0 +1,40 @@
+BLOCK_SITE: []
+DATABASE: sqlite
+DEPLOY_TYPE: github
+GITEE_FRIENDS_LINKS:
+  enable: false
+  owner: ccknbc
+  repo: blogroll
+  state: open
+  type: normal
+GITHUB_FRIENDS_LINKS:
+  enable: false
+  label: active
+  owner: ccknbc
+  repo: ccknbc-actions
+  state: open
+  type: normal
+HTTP_PROXY: false
+LINK:
+- link: https://jling.tk/link/
+  theme: butterfly
+- link: https://nie.su/links.html/
+  theme: butterfly
+MAX_POSTS_NUM: 10
+OUTDATE_CLEAN: 90
+SETTINGS_FRIENDS_LINKS:
+  enable: true
+  json_api: ''
+  list:
+  - - "\u6728\u6728\u6728\u6728\u6728"
+    - https://immmmm.com/
+    - https://cravatar.cn/avatar/ba83fa02fc4b2ba621514941307e21be
+  - - "\u9ED1\u77F3\u535A\u5BA2"
+    - https://www.heson10.com/
+    - https://akilar.top/images/headimage.png
+  - - "\u6D85\u69C3\u535A\u5BA2"
+    - https://nie.su/
+    - https://cravatar.cn/avatar/2bb6abe8f8067dcc29839dc67e98cf84
+  - - "\u7CBE\u7075\u5BA2\u6808"
+    - https://jling.tk/
+    - https://cravatar.cn/avatar/c4vqso4m1ualpgq8185h9g9d3d
