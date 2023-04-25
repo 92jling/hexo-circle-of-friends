@@ -19,7 +19,7 @@ LINK:
 - link: https://jling.tk/link/
   theme: butterfly
 - link: https://nie.su/links.html/
-  theme: butterfly
+  theme: common1
 MAX_POSTS_NUM: 10
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
@@ -56,3 +56,6 @@ SETTINGS_FRIENDS_LINKS:
   - - "\u56CD\u697D\u4E91\u535A\u5BA2"
     - https://boke.2lc.top/
     - https://thirdqq.qlogo.cn/g?b=qq&nk=3038733136&s=100
+  - - "\u98CE\u547C\u547C"
+    - http://whooc.com/
+    - http://whooc.com/logo
