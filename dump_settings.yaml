@@ -19,8 +19,8 @@ LINK:
 - link: https://jling.tk/link/
   theme: butterfly
 - link: https://nie.su/links.html/
-  theme: common1
-MAX_POSTS_NUM: 10
+  theme: butterfly
+MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: true
